@@ -9,9 +9,9 @@ Joy, Anger, Love, Sadness ,Fear and Surprise.
 The project utilizes a dataset containing sentences and their corresponding emotion labels. The dataset is loaded from train.txt, test.txt, and val.txt files.
 
 🖥️ Model Details
-Word Embedding: Text data is vectorized using a word embedding approach.
-LSTM: Long Short-Term Memory (LSTM) networks are used to capture emotional context.
-Fully Connected Layer: LSTM outputs are passed through a fully connected layer for classification.
-Optimization: The Adam optimization algorithm is used.
-Loss Function: Cross-entropy loss (CrossEntropyLoss) is applied.
+->Word Embedding: Text data is vectorized using a word embedding approach.
+->LSTM: Long Short-Term Memory (LSTM) networks are used to capture emotional context.
+->Fully Connected Layer: LSTM outputs are passed through a fully connected layer for classification.
+->Optimization: The Adam optimization algorithm is used.
+->Loss Function: Cross-entropy loss (CrossEntropyLoss) is applied.
 ![applsci-10-05841-g004-550](https://github.com/user-attachments/assets/17422c63-4d33-461d-b369-7ca626676ac0)
